@@ -15,7 +15,7 @@ This Bag model is not disigned for users who are under the age of 10 and/or body
 
 
 .. Note::
-Avoid loading the Bag with more than 90% of its volume or more than 15 kg.
+   Avoid loading the Bag with more than 90% of its volume or more than 15 kg.
 
 Care and maintenance
 =====================
