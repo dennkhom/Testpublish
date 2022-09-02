@@ -10,6 +10,7 @@ This User Guide covers details about how to unpack, use and care for our Bag.
 
  Scope
 -------
+
 Our Bag is intended for indoor and outdoor use and is completely waterproof. 
 This Bag model is not disigned for users who are under the age of 10 and/or body height under 120 cm.
 
