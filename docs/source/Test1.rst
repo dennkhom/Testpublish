@@ -8,7 +8,7 @@ Purpose
 
 This User Guide covers details about how to unpack, use and care for our Bag.
 
- Scope
+Scope
 -------
 
 Our Bag is intended for indoor and outdoor use and is completely waterproof. 
